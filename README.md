@@ -1,4 +1,4 @@
-# speech_text
+# Speech to text and vice versa.
                                        Speech recognition in Python
                              
 This project includes the following packages to be installed in python:-
